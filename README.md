@@ -1,4 +1,4 @@
-@This Project was made and developed under Indian Army.
+# This Project was made and developed under Indian Army.
 
 ********Sharing of project files is not allowed and Confedintial********
 
